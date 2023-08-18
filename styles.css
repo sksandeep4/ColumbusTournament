@@ -35,6 +35,9 @@
   font-size: 1.3em;
   text-decoration: none;
 }
+.navbar-items:hover {
+  color: #7d39a4;
+}
 .second-container {
   margin: 0 auto;
   /* border: #535054 solid 1px; */
