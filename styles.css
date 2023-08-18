@@ -35,7 +35,7 @@
   font-size: 1.3em;
   text-decoration: none;
 }
-.navbar-items:hover {
+.navbar-items::hover {
   color: #7d39a4;
 }
 .second-container {
