@@ -1,0 +1,205 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica,
+    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  /* border: 1px red solid; */
+}
+.nav {
+  height: 90px;
+  width: 98%;
+  margin: 0 auto;
+  border-bottom: 1.5px rgba(205, 138, 244, 0.2) solid;
+}
+
+.right-nav {
+  position: absolute;
+  top: 20px;
+  left: 350px;
+  width: 75%;
+  margin: 10px auto;
+}
+
+.logo-instagram {
+  width: 23px;
+  height: 22px;
+}
+.logo-facebook {
+  width: 10px;
+  height: 20px;
+}
+.navbar-items {
+  margin: 0px 8px;
+  color: #535054;
+  font-weight: 700;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+.second-container {
+  margin: 0 auto;
+  /* border: #535054 solid 1px; */
+  width: 95%;
+  align-items: center;
+  height: 50vh;
+  position: relative;
+}
+.second-container-left {
+  position: absolute;
+  top: 25%;
+}
+.tournament-highlights {
+  margin: 0 auto;
+  text-align: center;
+}
+.tournament-highlights p {
+  margin: 20px;
+  text-align: left;
+}
+.tournament-highlights span {
+  margin: 10px 0;
+  display: inline-block;
+  text-align: left;
+}
+.second-container-right {
+  width: 55%;
+  padding: 1.2rem;
+  display: inline-block;
+  position: absolute;
+  left: 40%;
+  top: 10%;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-size: 1.4rem;
+}
+.card-date {
+  color: #888;
+  display: inline-block;
+  margin: 5px 0 5px 5px;
+}
+.card-location {
+  color: #888;
+  display: inline-block;
+  margin: 20px 0 10px 15px;
+}
+
+.second-container h3 {
+  color: #6a308c;
+  margin: 1.2rem;
+  /* text-align: center; */
+}
+.winnertable,
+.winnertable td,
+.winnertable th,
+.winnertable tr {
+  border: #000 1px solid;
+  border-collapse: collapse;
+  padding: 20px;
+}
+table {
+  width: 80%;
+  margin: 0 auto;
+}
+th {
+  background: #6a308c;
+  color: #fff;
+}
+td:hover {
+  background: #6a308c;
+  color: #fff;
+}
+.picture-div {
+  width: 96%;
+  margin: 0 auto;
+}
+.picture-div img {
+  width: 20.7%;
+  height: 20.7%;
+  margin: 1% 2%;
+  border-radius: 10px;
+}
+.get-in-touch {
+  width: 55%;
+  margin: 0 auto;
+  text-align: center;
+}
+.get-in-touch p {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  padding: 15px;
+}
+.get-in-touch h1 {
+  /* font-size: 1.2rem; */
+  letter-spacing: 1px;
+  margin: 4px;
+}
+.footer {
+  margin: 50px auto 0;
+  /* width: 95vw; */
+  height: 55vh;
+  background-color: #6a308c;
+  color: white;
+  position: relative;
+}
+.footer-content {
+  width: 95vw;
+  margin: 0 auto;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+.links-footer {
+  display: inline;
+  /* box-sizing: border-box; */
+  text-align: right;
+  align-items: right;
+}
+.footer h1,
+.footer h4 {
+  margin: 1.2em auto;
+}
+.footer span {
+  color: orange;
+}
+.div-header {
+  margin: 3rem auto;
+  text-align: center;
+  width: 95%;
+  color: #6a308c;
+}
+hr {
+  width: 60%;
+  margin: 60px auto 0;
+  height: 1px;
+  background-color: rgba(205, 138, 244, 0.7);
+}
+.logo-plus-copyright p {
+  font-size: small;
+}
+.footer-tab {
+  width: 50%;
+  position: absolute;
+  top: 25px;
+  left: 450px;
+  text-align: center;
+}
+.footer-tab td {
+  padding: 4px;
+}
+.final-div {
+  width: 50%;
+  position: absolute;
+  top: 190px;
+  left: 650px;
+  text-align: center;
+}
+.footer-socials {
+  position: absolute;
+  bottom: 80px;
+  left: 1100px;
+}
+#backtotop {
+  position: absolute;
+  bottom: 240px;
+  left: 1150px;
+}
