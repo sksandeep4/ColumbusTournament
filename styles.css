@@ -5,6 +5,9 @@
   font-weight: 400;
   /* border: 1px red solid; */
 }
+strong{
+  font-weight: bold;
+}
 .nav {
   height: 90px;
   width: 98%;
