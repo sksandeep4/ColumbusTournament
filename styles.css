@@ -5,9 +5,6 @@
   font-weight: 400;
   /* border: 1px red solid; */
 }
-strong{
-  font-weight: bold;
-}
 .nav {
   height: 90px;
   width: 98%;
@@ -211,6 +208,9 @@ hr {
   top: 190px;
   left: 650px;
   text-align: center;
+}
+strong {
+  font-weight: bold;
 }
 .final-div h4 {
   padding: 7px;
