@@ -1,8 +1,8 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica,
-    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
   /* border: 1px red solid; */
 }
 .nav {
@@ -15,7 +15,7 @@
 .right-nav {
   position: absolute;
   top: 20px;
-  left: 350px;
+  left: 300px;
   width: 75%;
   margin: 10px auto;
 }
@@ -28,6 +28,11 @@
   width: 10px;
   height: 20px;
 }
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
 .navbar-items {
   margin: 0px 8px;
   color: #535054;
@@ -68,7 +73,7 @@
   padding: 1.2rem;
   display: inline-block;
   position: absolute;
-  left: 40%;
+  left: 42%;
   top: 10%;
   text-align: justify;
   letter-spacing: 1px;
@@ -135,6 +140,14 @@ td:hover {
   letter-spacing: 1px;
   margin: 4px;
 }
+
+.footer-h1 {
+  display: inline-block;
+  width: 60%;
+  padding: 12px;
+  position: absolute;
+  bottom: 20px;
+}
 .footer {
   margin: 50px auto 0;
   /* width: 95vw; */
@@ -157,9 +170,9 @@ td:hover {
   text-align: right;
   align-items: right;
 }
-.footer h1,
+
 .footer h4 {
-  margin: 1.2em auto;
+  margin: 0.5em auto;
 }
 .footer span {
   color: orange;
@@ -196,10 +209,13 @@ hr {
   left: 650px;
   text-align: center;
 }
+.final-div h4 {
+  padding: 7px;
+}
 .footer-socials {
   position: absolute;
   bottom: 80px;
-  left: 1100px;
+  left: 1120px;
 }
 #backtotop {
   position: absolute;
