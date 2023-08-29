@@ -6,20 +6,32 @@
     font-weight: 400;
     /* border: 1px red solid; */
   }
-   .second-container-left h1 {
+  .second-container-left h1 {
     width: 95vw;
     margin: 0 auto;
     text-align: center;
   }
- strong{
-      font-weight: bold;
- }
+  strong {
+    font-weight: bold;
+  }
   h1 {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
   }
+  #top {
+    width: 40vw;
+    margin: 0 0 20px;
+    align-items: left;
+    text-align: left;
+  }
   .nav {
+    border-bottom: #aaa 1px solid;
+  }
+  .right-nav {
     display: none;
+  }
+  .second-container-left h3 {
+    margin: 0 0 10px;
   }
   .second-container {
     margin: 45px auto 0;
