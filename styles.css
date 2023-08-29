@@ -6,6 +6,11 @@
     font-weight: 400;
     /* border: 1px red solid; */
   }
+   .second-container-left h1 {
+    width: 95vw;
+    margin: 0 auto;
+    text-align: center;
+  }
  strong{
       font-weight: bold;
  }
